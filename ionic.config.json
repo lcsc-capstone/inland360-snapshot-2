@@ -1,0 +1,7 @@
+{
+  "name": "projectDeepLinks",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
